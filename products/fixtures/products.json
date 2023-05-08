@@ -201,7 +201,7 @@
         "fields": {
             "sku": "pp00000015",
             "name": "Decorations for wedding gala dinner",
-            "description": "",
+            "description": "Flower decorations are the important part of any wedding gala dinner, as they add a touch of elegance, romance, and beauty to the occasion. The centerpiece may include a variety of flowers, such as roses, peonies or lilies. The floral decorations may also contain smaller arrangements placed throughout the room and be similar in style and design to the centerpiece, or they may be more understated to create a sense of balance and harmony throughout the space.",
             "price": 1000.0,
             "category": 2,
             "rating": 4.8,
@@ -229,7 +229,7 @@
         "fields": {
             "sku": "pp00000017",
             "name": "Anniversary bouquet",
-            "description": "",
+            "description": "Whether you're celebrating a milestone anniversary or simply want to show your love and appreciation, this vibrant bouquet in a basket is sure to bring a smile to your partner's face. The mix of colors and textures creates a stunning display that is both beautiful and meaningful, making it a perfect way to mark this special occasion.",
             "price": 400.0,
             "category": 2,
             "rating": 4.2,
