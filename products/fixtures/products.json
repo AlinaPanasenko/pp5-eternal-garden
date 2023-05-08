@@ -1,0 +1,310 @@
+[
+    {
+        "pk": 1,
+        "model": "products.product",
+        "fields": {
+            "sku": "pp00000001",
+            "name": "Bouquet in a box",
+            "description": "An ideal choice for a friendly gift: flowers of different varieties in similar colours accented with green leaves. The bouquet arranged in a matching colour box.",
+            "price": 29.99,
+            "category": 1,
+            "rating": 4.6,
+            "image_url": "http://",
+            "image": "bouquet_in_box.jpg"
+        }
+    },
+    {
+        "pk": 2,
+        "model": "products.product",
+        "fields": {
+            "sku": "pp00000002",
+            "name": "Bouquet in a round box",
+            "description": "Beauty in its simplicity: a bouquet of lush roses and peonies tinted with small white flowers. The flowers arranged in a box of matching colours.",
+            "price": 29.99,
+            "category": 1,
+            "rating": 4.3,
+            "image_url": "",
+            "image": "bouquet_in_hatbox.jpg"
+        }
+    },
+    {
+        "pk": 3,
+        "model": "products.product",
+        "fields": {
+            "sku": "pp00000003",
+            "name": "Bouquet of carnations",
+            "description": "An original and bold composition of carnations and field herbs in contrasting colours made for the perfect surprise gift.",
+            "price": 32.5,
+            "category": 1,
+            "rating": 4.0,
+            "image_url": "",
+            "image": "carnations.jpg"
+        }
+    },
+    {
+        "pk": 4,
+        "model": "products.product",
+        "fields": {
+            "sku": "pp00000004",
+            "name": "Pink dream",
+            "description": "A beautiful memory of an elusive dream dressed in pink.",
+            "price": 27.0,
+            "category": 1,
+            "rating": 3.0,
+            "image_url": "",
+            "image": "dry_flowers_bouquet.jpg"
+        }
+    },
+    {
+        "pk": 5,
+        "model": "products.product",
+        "fields": {
+            "sku": "pp00000005",
+            "name": "Dance of life",
+            "description": "Unusual bouquet with a generous variety of roses, garden flowers, and branches with berries and leaves.",
+            "price": 50.0,
+            "category": 1,
+            "rating": 5.0,
+            "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP1115201210371197C.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
+            "image": "flowers_and_berries.jpg"
+        }
+    },
+    {
+        "pk": 6,
+        "model": "products.product",
+        "fields": {
+            "sku": "pp00000006",
+            "name": "Peonies",
+            "description": "The bouquet of vibrant colour peonies with mature flowers, and flowers in bud that prolong their freshness and lifespan.",
+            "price": 35.99,
+            "category": 1,
+            "rating": 4.7,
+            "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP0624201520422666C.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
+            "image": "peonies.jpg"
+        }
+    },
+    {
+        "pk": 7,
+        "model": "products.product",
+        "fields": {
+            "sku": "pp00000007",
+            "name": "Red roses",
+            "description": "Astound your special someone with an elegant bouquet of individually selected large-headed Naomi red Roses.",
+            "price": 89.0,
+            "category": 1,
+            "rating": 4.9,
+            "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP0226201317034754M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
+            "image": "red_roses.jpg"
+        }
+    },
+    {
+        "pk": 8,
+        "model": "products.product",
+        "fields": {
+            "sku": "pp00000008",
+            "name": "Pink roses",
+            "description": "Individually selected by our skilled florists these are the finest pink Roses for your romantic date with special someone.",
+            "price": 90.0,
+            "category": 1,
+            "rating": 4.5,
+            "image_url": "http://s7d2.scene7.com/is/image/JCPenney/DP0926201317071162M.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
+            "image": "pink_roses.jpg"
+        }
+    },
+    {
+        "pk": 9,
+        "model": "products.product",
+        "fields": {
+            "sku": "pp00000009",
+            "name": "Roses and carnations",
+            "description": "Fresh and delicate bouquet of finest roses and carnations in a beautiful arrangement.",
+            "price": 75.0,
+            "category": 1,
+            "rating": 4.3,
+            "image_url": "http://s7d2.scene7.com/is/image/JCPenney/DP1020201517025390M.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
+            "image": "roses_and_carnations.jpg"
+        }
+    },
+    {
+        "pk": 10,
+        "model": "products.product",
+        "fields": {
+            "sku": "pp00000010",
+            "name": "Breath of Spring",
+            "description": "Simply gorgeous bouquet of pink tulips, everybody's favourite flower at this time of year.",
+            "price": 49.99,
+            "category": 1,
+            "rating": 4.8,
+            "image_url": "http://s7d2.scene7.com/is/image/JCPenney/DP0418201317011949M.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
+            "image": "tulips.jpg"
+        }
+    },
+    {
+        "pk": 11,
+        "model": "products.product",
+        "fields": {
+            "sku": "pp00000011",
+            "name": "Bridal Bouquet",
+            "description": "Every bride gets the bouquet of her dreams specially designed for her. We’ve over a decade of experience designing the perfect bouquet for your big day.",
+            "price": 150.0,
+            "category": 2,
+            "rating": 5.0,
+            "image_url": "http://s7d2.scene7.com/is/image/JCPenney/0900631B81B0C2D9M.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
+            "image": "red_bride_bouquet.jpg"
+        }
+    },
+    {
+        "pk": 12,
+        "model": "products.product",
+        "fields": {
+            "sku": "pp00000012",
+            "name": "Simple Bridal Bouquet",
+            "description": "A charming hand-tied flower bouquet with classic selection of beautiful flowers skillfully arranged by our florist.",
+            "price": 100.0,
+            "category": 2,
+            "rating": 4.6,
+            "image_url": "http://s7d2.scene7.com/is/image/JCPenney/DP0510201317010521M.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
+            "image": "simple_bridal_bouquet.jpg"
+        }
+    },
+    {
+        "pk": 13,
+        "model": "products.product",
+        "fields": {
+            "sku": "pp00000013",
+            "name": "Bridesmaid's bouquets",
+            "description": "We always ensure that each bridesmaid's bouquet is in a similar style but smaller in scale in comparison to the bride's bouquet. Having similar flowers is a great way of having them complement each other. It's important that the bridal bouquet stand out as it is the most photographed floral arrangement of the entire wedding. We can help you with the right combination and floral design that will give something extra to your bridal party style.",
+            "price": 80.0,
+            "category": 2,
+            "rating": 4.2,
+            "image_url": "http://s7d2.scene7.com/is/image/JCPenney/DP0430201405053680M.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
+            "image": "bridesmate_bouquet.jpg"
+        }
+    },
+    {
+        "pk": 14,
+        "model": "products.product",
+        "fields": {
+            "sku": "pp00000014",
+            "name": "Wedding decoration for Mr and Mrs",
+            "description": "",
+            "price": 450.0,
+            "category": 2,
+            "rating": 3.5,
+            "image_url": "http://s7d2.scene7.com/is/image/JCPenney/0900631B81C9387BM.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
+            "image": "wedding_mr_and_mrs.jpg"
+        }
+    },
+    {
+        "pk": 15,
+        "model": "products.product",
+        "fields": {
+            "sku": "pp00000015",
+            "name": "Decorations for wedding gala dinner",
+            "description": "",
+            "price": 1000.0,
+            "category": 2,
+            "rating": 4.8,
+            "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP1029201317111469M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
+            "image": "wedding_decoration.jpg"
+        }
+    },
+    {
+        "pk": 16,
+        "model": "products.product",
+        "fields": {
+            "sku": "pp00000016",
+            "name": "Wedding day overhead decoration",
+            "description": "",
+            "price": 200.0,
+            "category": 2,
+            "rating": 4.5,
+            "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP0918201520303373C.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
+            "image": "overhead_decoration.jpg"
+        }
+    },
+    {
+        "pk": 17,
+        "model": "products.product",
+        "fields": {
+            "sku": "pp00000017",
+            "name": "Anniversary bouquet",
+            "description": "",
+            "price": 400.0,
+            "category": 2,
+            "rating": 4.2,
+            "image_url": "http://s7d2.scene7.com/is/image/JCPenney/DP1119201520340305C.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
+            "image": "anniversary_bouquet.jpg"
+        }
+    },
+    {
+        "pk": 18,
+        "model": "products.product",
+        "fields": {
+            "sku": "pp00000018",
+            "name": "Orchid decoration",
+            "description": "",
+            "price": 79.99,
+            "category": 3,
+            "rating": 4.8,
+            "image_url": "http://s7d2.scene7.com/is/image/JCPenney/DP0807201317072274M.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
+            "image": "home_decoration_orchid.jpg"
+        }
+    },
+    {
+        "pk": 19,
+        "model": "products.product",
+        "fields": {
+            "sku": "pp00000019",
+            "name": "Banquet decorations",
+            "description": "Price for one bouquet.",
+            "price": 15.0,
+            "category": 3,
+            "rating": 4.5,
+            "image_url": "http://s7d2.scene7.com/is/image/JCPenney/DP0807201317072924M.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
+            "image": "banquet_decoration.jpg"
+        }
+    },
+    {
+        "pk": 20,
+        "model": "products.product",
+        "fields": {
+            "sku": "pp00000020",
+            "name": "Table bouquet",
+            "description": "",
+            "price": 30.0,
+            "category": 3,
+            "rating": 4.7,
+            "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP0821201317103183M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
+            "image": "decoration_restaurant.jpg"
+        }
+    },
+    {
+        "pk": 21,
+        "model": "products.product",
+        "fields": {
+            "sku": "pp00000021",
+            "name": "Bouquet in the buket",
+            "description": "",
+            "price": 120.0,
+            "category": 3,
+            "rating": 4.9,
+            "image_url": "http://s7d9.scene7.com/is/image/JCPenney/0900631B81D676AEM.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
+            "image": "home_decorations_buket.jpg"
+        }
+    },
+    {
+        "pk": 22,
+        "model": "products.product",
+        "fields": {
+            "sku": "pp00000022",
+            "name": "Dry flower decoration",
+            "description": "",
+            "price": 20.0,
+            "category": 3,
+            "rating": 3.6,
+            "image_url": "http://s7d2.scene7.com/is/image/JCPenney/DP0917201317033820M.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
+            "image": "dry_flower_decoration.jpg"
+        }
+    }
+]
