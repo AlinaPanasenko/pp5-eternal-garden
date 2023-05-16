@@ -1,7 +1,7 @@
 from django.shortcuts import render, redirect, HttpResponse, get_object_or_404
 from django.contrib import messages
 
-from products.model import Product
+from products.models import Product
 
 # Create your views here.
 
