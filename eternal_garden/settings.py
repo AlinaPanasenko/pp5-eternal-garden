@@ -29,8 +29,7 @@ SECRET_KEY = os.environ.get('SECRET_KEY')
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-# ALLOWED_HOSTS = ['eternal-garden.herokuapp.com', 'localhost']
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['8000-alinapanase-pp5eternalg-4r3q6v9mglw.ws-eu99.gitpod.io']
 
 
 # Application definition
@@ -83,7 +82,8 @@ TEMPLATES = [
                 'django.template.context_processors.request',
                 'django.contrib.auth.context_processors.auth',
                 'django.contrib.messages.context_processors.messages',
-                'bag.contexts.bag_contents',
+                'django.template.context_processors.media',
+                'bag.context.bag_contents',
             ],
             'builtins': [
                 'crispy_forms.templatetags.crispy_forms_tags',
